@@ -2,7 +2,7 @@
 public class PRUEBA1 {
 <<<<<<< HEAD
 ododdd
-sdasfasdf
+sdasfasdfsdsfsdg
 dsfasfafa
 =======
 ododddçç
